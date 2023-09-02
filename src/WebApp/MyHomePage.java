@@ -5,6 +5,10 @@ public class MyHomePage {
 
     //Navigation menu
 
+    //more things for the Hompeage
+
+    //logo
+
 
 
 
