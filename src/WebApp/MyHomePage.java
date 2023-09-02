@@ -9,6 +9,8 @@ public class MyHomePage {
 
     //logo
 
+    //homepage finished footer
+
 
 
 
